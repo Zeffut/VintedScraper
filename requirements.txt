@@ -1,0 +1,6 @@
+notion-client
+undetected-chromedriver
+bs4
+python-telegram-bot
+transformers
+torchvision
